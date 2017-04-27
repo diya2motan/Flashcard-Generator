@@ -1,0 +1,22 @@
+[
+	{
+		"fullText": "George Washington was the first president of the United States.",
+		"partial": "George ... was the first president of the United States.",
+		"cloze": "Washington"
+	},
+	{
+		"fullText": "The Treaty of Paris was an agreement signed by British and Americans.",
+		"partial": "The ... was an agreement signed by British and Americans.",
+		"cloze": "Treaty of Paris"
+	},
+	{
+		"fullText": "Rome is the capital of Italy.",
+		"partial": "... is the capital of Italy.",
+		"cloze": "Rome"
+	},
+	{
+		"fullText": "In the United Kingdom, it is illegal to eat mince pies on Christmas Day!",
+		"partial": "In the ..., it is illegal to eat mince pies on Christmas Day!",
+		"cloze": "United Kingdom"
+	}
+]
